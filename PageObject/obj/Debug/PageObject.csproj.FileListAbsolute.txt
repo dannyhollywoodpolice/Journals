@@ -1,0 +1,33 @@
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\PageObject\obj\Debug\PageObject.csprojResolveAssemblyReference.cache
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\PageObject\bin\Debug\PageObject.dll
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\PageObject\bin\Debug\PageObject.pdb
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\PageObject\bin\Debug\nunit.framework.dll
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\PageObject\bin\Debug\WebDriver.dll
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\PageObject\bin\Debug\WebDriver.Support.dll
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\PageObject\bin\Debug\nunit.framework.xml
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\PageObject\bin\Debug\WebDriver.xml
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\PageObject\bin\Debug\WebDriver.Support.xml
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\PageObject\obj\Debug\PageObject.dll
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\PageObject\obj\Debug\PageObject.pdb
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\PageObject\bin\Debug\PageObject.dll
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\PageObject\bin\Debug\PageObject.pdb
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\PageObject\bin\Debug\nunit.framework.dll
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\PageObject\bin\Debug\WebDriver.dll
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\PageObject\bin\Debug\WebDriver.Support.dll
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\PageObject\bin\Debug\nunit.framework.xml
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\PageObject\bin\Debug\WebDriver.xml
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\PageObject\bin\Debug\WebDriver.Support.xml
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\PageObject\obj\Debug\PageObject.csprojResolveAssemblyReference.cache
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\PageObject\obj\Debug\PageObject.dll
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\PageObject\obj\Debug\PageObject.pdb
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\PageObject\bin\Debug\PageObject.dll
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\PageObject\bin\Debug\PageObject.pdb
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\PageObject\bin\Debug\nunit.framework.dll
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\PageObject\bin\Debug\WebDriver.dll
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\PageObject\bin\Debug\WebDriver.Support.dll
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\PageObject\bin\Debug\nunit.framework.xml
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\PageObject\bin\Debug\WebDriver.xml
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\PageObject\bin\Debug\WebDriver.Support.xml
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\PageObject\obj\Debug\PageObject.csprojResolveAssemblyReference.cache
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\PageObject\obj\Debug\PageObject.dll
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\PageObject\obj\Debug\PageObject.pdb

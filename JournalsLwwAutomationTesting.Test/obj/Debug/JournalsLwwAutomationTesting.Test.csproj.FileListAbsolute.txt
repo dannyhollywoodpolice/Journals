@@ -1,0 +1,47 @@
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\obj\Debug\JournalsLwwAutomationTesting.Test.csprojResolveAssemblyReference.cache
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.Test.dll
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.Test.pdb
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.dll
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\nunit.framework.dll
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\PageObject.dll
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\WebDriver.dll
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\WebDriver.Support.dll
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.pdb
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\PageObject.pdb
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\nunit.framework.xml
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\WebDriver.xml
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\WebDriver.Support.xml
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\obj\Debug\JournalsLwwAutomationTesting.Test.dll
+C:\Users\Lilia_Perevozchikova\Documents\Visual Studio 2015\Projects\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\obj\Debug\JournalsLwwAutomationTesting.Test.pdb
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.Test.dll
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.Test.pdb
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.dll
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\nunit.framework.dll
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\PageObject.dll
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\WebDriver.dll
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\WebDriver.Support.dll
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.pdb
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\PageObject.pdb
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\nunit.framework.xml
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\WebDriver.xml
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\WebDriver.Support.xml
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\obj\Debug\JournalsLwwAutomationTesting.Test.csprojResolveAssemblyReference.cache
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\obj\Debug\JournalsLwwAutomationTesting.Test.dll
+E:\Все файлы\C# test automation\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\obj\Debug\JournalsLwwAutomationTesting.Test.pdb
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.Test.dll
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.Test.pdb
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.dll
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\nunit.framework.dll
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\PageObject.dll
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\WebDriver.dll
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\WebDriver.Support.dll
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.pdb
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\PageObject.pdb
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\nunit.framework.xml
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\WebDriver.xml
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\WebDriver.Support.xml
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\obj\Debug\JournalsLwwAutomationTesting.Test.csprojResolveAssemblyReference.cache
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\obj\Debug\JournalsLwwAutomationTesting.Test.dll
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\obj\Debug\JournalsLwwAutomationTesting.Test.pdb
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\geckodriver.exe
+C:\Users\Lilia_Perevozchikova\Downloads\Different\JournalsLwwAutomationTesting\JournalsLwwAutomationTesting.Test\bin\Debug\JournalsLwwAutomationTesting.Test.dll.config
