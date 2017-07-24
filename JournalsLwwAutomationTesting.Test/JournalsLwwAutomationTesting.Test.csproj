@@ -77,8 +77,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JournalsLwwAutomationTesting\Logic.csproj">
-      <Project>{b4eb330d-236a-40c3-af12-c0c4cb1f0af4}</Project>
+    <ProjectReference Include="..\Logic\Logic.csproj">
+      <Project>{680BDE25-C982-4CFC-9B6B-FD551435C528}</Project>
       <Name>Logic</Name>
     </ProjectReference>
     <ProjectReference Include="..\PageObject\PageObject.csproj">

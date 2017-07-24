@@ -1,0 +1,9 @@
+C:\Users\Lilia_Perevozchikova\Journals\Logic\bin\Debug\Logic.dll
+C:\Users\Lilia_Perevozchikova\Journals\Logic\bin\Debug\Logic.pdb
+C:\Users\Lilia_Perevozchikova\Journals\Logic\bin\Debug\WebDriver.dll
+C:\Users\Lilia_Perevozchikova\Journals\Logic\bin\Debug\WebDriver.Support.dll
+C:\Users\Lilia_Perevozchikova\Journals\Logic\bin\Debug\WebDriver.xml
+C:\Users\Lilia_Perevozchikova\Journals\Logic\bin\Debug\WebDriver.Support.xml
+C:\Users\Lilia_Perevozchikova\Journals\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Lilia_Perevozchikova\Journals\Logic\obj\Debug\Logic.dll
+C:\Users\Lilia_Perevozchikova\Journals\Logic\obj\Debug\Logic.pdb

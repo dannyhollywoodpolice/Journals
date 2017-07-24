@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using Logic;
+using NUnit.Framework;
 using OpenQA.Selenium;
 using PageObject;
 using System;
