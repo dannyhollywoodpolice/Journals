@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObject", "PageObject\PageObject.csproj", "{DEB578F9-49C3-4D9F-AC9E-83D640B39FCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JournalsLwwAutomationTestingTests", "JournalsLwwAutomationTesting.Test\JournalsLwwAutomationTestingTests.csproj", "{BC1FEC37-DC26-4D06-8F5E-176B9381F56C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JournalsLwwAutomationTesting.Test", "JournalsLwwAutomationTesting.Test\JournalsLwwAutomationTesting.Test.csproj", "{BC1FEC37-DC26-4D06-8F5E-176B9381F56C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{680BDE25-C982-4CFC-9B6B-FD551435C528}"
 EndProject
