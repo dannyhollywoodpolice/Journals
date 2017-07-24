@@ -22,7 +22,7 @@ namespace JournalsLwwAutomationTesting.Test
         static string EXISTINGFOLDER = ConfigurationSettings.AppSettings["EXISTINGFOLDER"];
         static string mainPage = ConfigurationSettings.AppSettings["mainPage"];
         static string journalUrl = ConfigurationSettings.AppSettings["journalUrl"];
-        static string articlename = ConfigurationSettings.AppSettings["articlename"];
+        static string articlename = ConfigurationSettings.AppSettings["article"];
         static string articleUrl = ConfigurationSettings.AppSettings["articleUrl"];
         static string favouritesPageUrl = ConfigurationSettings.AppSettings["favouritesPageUrl"];
         static private IWebDriver driver;

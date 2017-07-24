@@ -141,6 +141,8 @@ namespace JournalsLwwAutomationTesting.Test
         public void VerifyIfSearchCorrect()
         {
             PlasticAndReconstructiveSurgeryPage surgeryPage = new PlasticAndReconstructiveSurgeryPage(driver);
+            SearchActions.SearchForWord(surgeryPage.SearchBox, surgeryPage.SearchButton, constArticleName);
+            SearchActions.SaveSearch(surgeryPage.SaveSearchButton, surgeryPage.SearchNametextBox, surgeryPage.SaveSearchButtonForm, constSearchName);
 
             FavouritesPage favouritesPage = new FavouritesPage(driver);
 
